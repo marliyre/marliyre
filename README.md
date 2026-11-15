@@ -48,7 +48,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="100%" align="center">
       <b>GitHub Overview</b><br/><br/>
       <img height="165"
         src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2&icon_color=85858F"
@@ -59,7 +59,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="100%" align="center">
       <b>Most Used Languages</b><br/><br/>
       <img height="165"
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2"
@@ -70,7 +70,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="100%" align="center">
       <b>Coding Activity & Programming Time</b><br/><br/>
       <img
         src="https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&display_format=time&layout=compact&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2"
@@ -84,7 +84,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="100%" align="center">
       <b>GitHub Contribution Streak</b><br/><br/>
       <img
         src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D0D0F&ring=C0C0C8&fire=E5E4E2&currStreakLabel=C0C0C8&sideLabels=C0C0C8&currStreakNum=E5E4E2&sideNums=E5E4E2&dates=85858F"
