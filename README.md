@@ -12,7 +12,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,godot" alt="Programming Languages" />
 </p>
 
 ### Development Tools & Platforms
