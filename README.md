@@ -2,7 +2,7 @@
 
 <p align="justify">
   
-I am Siti Marliyah, an Informatics Engineering student at Universitas Teknologi Bandung with a passion for technology and software development. My primary areas of interest include **Game-Development**, **Application%Development**, and **Web%Development**. I enjoy transforming ideas into functional and interactive digital experiences by combining creativity, logical thinking, and problem-solving skills. Through hands-on projects and independent learning, I continuously explore new technologies, experiment with different approaches, and strengthen my technical capabilities.
+I am Siti Marliyah, an Informatics Engineering student at Universitas Teknologi Bandung with a passion for technology and software development. My primary areas of interest include **Game** **Development**, **Application** **Development**, and **Web** **Development**. I enjoy transforming ideas into functional and interactive digital experiences by combining creativity, logical thinking, and problem-solving skills. Through hands-on projects and independent learning, I continuously explore new technologies, experiment with different approaches, and strengthen my technical capabilities.
 
 In addition to software development, I am also interested in **Cybersecurity**, particularly in system security, vulnerability analysis, and developing more secure and reliable digital environments. I value continuous learning, adaptability, and curiosity as essential parts of personal and professional growth. My goal is to create innovative digital solutions, deepen my technical expertise, and grow into a versatile developer capable of contributing to meaningful technological advancements.
 
