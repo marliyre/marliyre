@@ -15,7 +15,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 ### Development Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,github,vscode,blender,expo,heroku" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=godot,github,vscode,blender,expogo,heroku" alt="Development Tools" />
 </p>
 
 ### Design & Creative Tools
