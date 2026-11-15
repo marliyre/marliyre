@@ -46,7 +46,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 ## Statistics
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <b>GitHub Overview</b><br/><br/>
@@ -57,7 +57,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <b>Most Used Languages</b><br/><br/>
@@ -68,7 +68,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <b>Coding Activity & Programming Time</b><br/><br/>
@@ -82,7 +82,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <b>GitHub Contribution Streak</b><br/><br/>
