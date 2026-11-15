@@ -29,15 +29,6 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 - ibisPaint X
 - CorelDRAW
 
-## Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=14B8A6&currStreakLabel=14B8A6"
-    alt="GitHub Streak Statistics"
-  />
-</p>
-
 ## Statistics
 
 <p align="center">
