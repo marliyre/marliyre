@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E5E,100:0F766E&height=230&section=header&text=Siti%20Marliyah&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Game%20Development%20%7C%20Application%20Development%20%7C%20Web%20Development&descSize=13&descAlignY=58&descColor=CCFBF1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:202027,75:45454F,100:C0C0C8&height=230&section=header&text=Siti%20Marliyah&fontSize=55&fontColor=E5E4E2&fontAlignY=38&animation=fadeIn&desc=Game%20Development%20%7C%20Application%20Development%20%7C%20Web%20Development&descSize=13&descAlignY=58&descColor=C0C0C8)
 
 <p align="justify">
   
@@ -51,7 +51,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
     <td align="center">
       <b>GitHub Overview</b><br/><br/>
       <img height="165"
-        src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+        src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2&icon_color=85858F"
         alt="GitHub Stats" />
     </td>
   </tr>
@@ -62,7 +62,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
     <td align="center">
       <b>Most Used Languages</b><br/><br/>
       <img height="165"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2"
         alt="Top Languages" />
     </td>
   </tr>
@@ -73,7 +73,7 @@ In addition to software development, I am also interested in **Cybersecurity**, 
     <td align="center">
       <b>Coding Activity & Programming Time</b><br/><br/>
       <img
-        src="https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&display_format=time&layout=compact"
+        src="https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&display_format=time&layout=compact&bg_color=0D0D0F&title_color=C0C0C8&text_color=E5E4E2"
         alt="WakaTime Coding Activity" />
     </td>
   </tr>
@@ -87,10 +87,10 @@ In addition to software development, I am also interested in **Cybersecurity**, 
     <td align="center">
       <b>GitHub Contribution Streak</b><br/><br/>
       <img
-        src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=14B8A6&currStreakLabel=14B8A6"
+        src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D0D0F&ring=C0C0C8&fire=E5E4E2&currStreakLabel=C0C0C8&sideLabels=C0C0C8&currStreakNum=E5E4E2&sideNums=E5E4E2&dates=85858F"
         alt="GitHub Contribution Streak" />
     </td>
   </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E5E,100:0F766E&height=110&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:202027,75:45454F,100:C0C0C8&height=110&section=footer)
