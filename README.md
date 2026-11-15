@@ -31,19 +31,51 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 ## Statistics
 
-<p align="center">
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats" />
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>GitHub Overview</b><br/><br/>
+      <img height="165"
+        src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+        alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=14B8A6&currStreakLabel=14B8A6"
-    alt="GitHub Contribution Streak" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Most Used Languages</b><br/><br/>
+      <img height="165"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true"
+        alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Coding Activity & Programming Time</b><br/><br/>
+      <img
+        src="https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&display_format=time&layout=compact"
+        alt="WakaTime Coding Activity" />
+    </td>
+  </tr>
+</table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<table>
+  <tr>
+    <td align="center">
+      <b>GitHub Contribution Streak</b><br/><br/>
+      <img
+        src="https://streak-stats.demolab.com/?user=marliyre&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=14B8A6&currStreakLabel=14B8A6"
+        alt="GitHub Contribution Streak" />
+    </td>
+  </tr>
+</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E5E,100:0F766E&height=110&section=footer)
