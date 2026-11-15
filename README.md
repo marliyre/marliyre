@@ -33,10 +33,10 @@ In addition to software development, I am also interested in **Cybersecurity**, 
 
 <p align="center">
   <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=marliyre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
     alt="GitHub Stats" />
   <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marliyre&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages" />
 </p>
 
