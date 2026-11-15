@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:202027,75:45454F,100:C0C0C8&height=230&section=header&text=Siti%20Marliyah&fontSize=55&fontColor=E5E4E2&fontAlignY=38&animation=fadeIn&desc=Game%20Development%20%7C%20Application%20Development%20%7C%20Web%20Development&descSize=13&descAlignY=58&descColor=C0C0C8)
+![Header](https://capsule-render.vercel.app/api?type=pulse&color=0:080808,40:202027,75:45454F,100:C0C0C8&height=230&section=header&text=Siti%20Marliyah&fontSize=55&fontColor=E5E4E2&fontAlignY=38&animation=twinkling&desc=Game%20Development%20%7C%20Application%20Development%20%7C%20Web%20Development&descSize=13&descAlignY=58&descColor=C0C0C8)
 
 <p align="justify">
   
